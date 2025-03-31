@@ -1,5 +1,5 @@
 {
-    "name": "clickadilla/laravel-promocodes",
+    "name": "alekseyzharkov/laravel-coupons",
     "description": ":package_description",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://github.com/zgabievi"
         }
     ],
-    "homepage": "https://github.com/clickadilla/laravel-promocodes",
+    "homepage": "https://github.com/alekseyzharkov/laravel-coupons",
     "keywords": [
         "Laravel",
         "Promocodes"
